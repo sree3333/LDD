@@ -1,0 +1,16 @@
+0 Apple_diseased
+1 Apple_healthy
+2 Apricot_diseased
+3 Apricot_healthy
+4 Cherry_diseased
+5 Cherry_healthy
+6 Cranberry_diseased
+7 Cranberry_healthy
+8 Grapes_diseased
+9 Grapes_healthy
+10 Peach_diseased
+11 Peach_healthy
+12 Pear_diseased
+13 Pear_healthy
+14 Walnut_diseased
+15 Walnut_healthy
